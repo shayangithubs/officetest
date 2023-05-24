@@ -3,4 +3,5 @@
 2nd line from B
 line added today from A
 2nd line added from A.
+1st line added from B.
 3rd line added from A.
